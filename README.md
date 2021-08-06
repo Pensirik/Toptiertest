@@ -15,7 +15,9 @@
 ### let play for input form
 
 - http://127.0.0.1:8000/
-![alt text](http://url/to/img.png)
+<p align="left">
+  <img src="https://github.com/Pensirik/Toptiertest/blob/main/public/picture/1.png" width="350" alt="accessibility text">
+</p>
 
 ### Admin Login
 
